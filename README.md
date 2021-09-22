@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shawnob2123
+- 👋 Hi, I’m Shawn!
 - 👀 I’m interested in building Mobile Applications
 - 🌱 I’m currently learning React Native
 - 💞️ I’m looking to collaborate on React Native apps with Node and Firebase
